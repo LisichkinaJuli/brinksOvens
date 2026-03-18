@@ -1,0 +1,20 @@
+{
+  "name": "brinksovens",
+  "version": "1.0.0",
+  "description": "brink ovens",
+  "homepage": "https://github.com/LisichkinaJuli/brinksOvens#readme",
+  "bugs": {
+    "url": "https://github.com/LisichkinaJuli/brinksOvens/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisichkinaJuli/brinksOvens.git"
+  },
+  "license": "ISC",
+  "author": "Lisichkina Yuliya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
