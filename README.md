@@ -1,4 +1,15 @@
 # Кирпичные печи
+<p align="left">
+  <!-- Style Dictionary -->
+  <img src="https://badgen.net" alt="Style Dictionary" />
+  <!-- Tokens Studio (Figma) -->
+  <img src="https://badgen.net" alt="Tokens Studio" />
+  <!-- Node.js -->
+  <img src="https://badgen.net" alt="Node.js" />
+  <!-- Лицензия -->
+  <img src="https://badgen.net" alt="License" />
+</p>
+
 brinks Ovens
 
 Design Tokens Build System (Style Dictionary + Tokens Studio)
