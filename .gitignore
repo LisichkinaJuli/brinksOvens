@@ -1,2 +1,4 @@
 node_modules
 dist
+src/tokens/build
+src/tokens/variables.css

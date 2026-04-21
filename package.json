@@ -12,16 +12,27 @@
   },
   "license": "ISC",
   "author": "Lisichkina Yuliya",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode production",
+    "dev": "webpack serve"
   },
   "dependencies": {
-    "jquery": "^4.0.0"
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "core-js": "^3.49.0",
+    "jquery": "^4.0.0",
+    "style-dictionary": "^5.3.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "babel-loader": "^10.1.1",
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^7.1.4",
+    "html-webpack-plugin": "^5.6.7",
+    "mini-css-extract-plugin": "^2.10.2",
     "webpack": "^5.105.4",
-    "webpack-cli": "^7.0.2"
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.3"
   }
 }
